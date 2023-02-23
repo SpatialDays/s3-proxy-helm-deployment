@@ -1,0 +1,6 @@
+replicaCount: 3
+
+s3proxy:
+  jcloudsIdentity: ""
+  jcloudsEndpoint: ""
+  jcloudsCredential: ""
